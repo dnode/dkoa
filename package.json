@@ -1,0 +1,16 @@
+{
+  "name": "dkoa",
+  "description": "Get the Koa application depending on the environment variable 'PORT'",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/dkoa",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "dependencies": {
+    "koa": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dkoa.git"
+  }
+}
